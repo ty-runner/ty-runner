@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there friends!👋
 
 <!--
 **ty-runner/ty-runner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning COMPE 560: COMPE 561: Database and Web Programming, COMPE 560: Computer Networks, and COMPE 571: Embedded Operating Systems
+- ✨ My hobbies are surfing, swimming, gardening, and weightlifting
+- ⚡ My software interests are Embedded Systems, Computer Networks, and Machine Learning
