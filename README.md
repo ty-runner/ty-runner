@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning COMPE 560: COMPE 561: Database and Web Programming, COMPE 560: Computer Networks, and COMPE 571: Embedded Operating Systems
+- 🌱 I’m currently learning COMPE 696: AI for Unmanned Systems, COMPE 525: Cyber Physical Systems, and EE 696: Wireless Communications
 - ✨ My hobbies are surfing, swimming, gardening, and weightlifting
 - ⚡ My software interests are Embedded Systems, Computer Networks, and Machine Learning
