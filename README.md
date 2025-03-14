@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning COMPE 696: AI for Unmanned Systems, COMPE 525: Cyber Physical Systems, and EE 696: Wireless Communications
+- 🌱 I’m currently learning COMPE 696: AI for Unmanned Systems, COMPE 525: Cyber Physical Systems, and CS 659: Visual Perception and Learning
 - ✨ My hobbies are surfing, swimming, gardening, and weightlifting
 - ⚡ My software interests are Embedded Systems, Computer Networks, and Machine Learning
