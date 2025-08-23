@@ -1,4 +1,4 @@
-## Hi there friends!👋
+## Hi there!👋
 
 <!--
 **ty-runner/ty-runner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
