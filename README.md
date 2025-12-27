@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning COMPE 662: Wireless Sensor Networks and EE 558: Digital Communications
-- ✨ My hobbies are surfing, swimming, gardening, and weightlifting
 - ⚡ My software interests are Embedded Systems, Computer Networks, and Machine Learning
+
+- I am currently focusing on sensor interfacing, sensor networks, and routing schemes. My Master's project is going to be building a sensor and networking stack to interface with a sensor and provide real time packets of critical data.
