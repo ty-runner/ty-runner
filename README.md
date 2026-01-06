@@ -33,8 +33,8 @@ I'm a Computer Engineering Master's student with a strong focus on **embedded sy
 - 📡 **Sensor & Networking Stack (Master’s Project)**  
   Designing and implementing a **sensor-to-network stack** that interfaces with hardware sensors and delivers **real-time packets of critical data**, with emphasis on reliability, latency, and scalability in a linux kernel.
 
-- 🎮 **Systems-Driven Game Development**  
-  Built a 2048-style game using SpriteKit, emphasizing clean data models, state transitions, and animation orchestration.
+- 🎮 **Golf Simulator (In Progress)**
+  Creating a golf simulator using camera based projection to strengthen my C++ skills.
 
 ---
 
